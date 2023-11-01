@@ -1,0 +1,27 @@
+.game{
+    width:320px;
+    margin:auto;
+    color:white;
+    text-align: center;
+    font-weight: 600;
+}
+
+.title{
+    background:rgb(199, 3, 169);
+    padding:6px 0px;
+}
+.title span{
+    color:aqua;
+}
+
+.sqaure{
+    width:100px;
+    height: 100px;
+    background:rgb(199, 3, 169);
+    float: left;
+    margin:2px;
+    font-size: 70px;
+}
+.sqaure:hover{
+    background:black;
+}
